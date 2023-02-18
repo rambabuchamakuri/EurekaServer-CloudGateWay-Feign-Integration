@@ -18,4 +18,4 @@ http://localhost:8888/eureka-client-1/eureka-client-1/hello
 # 6. Name : feign-service  Port : 8064
 http://localhost:8064/feign-service/client1 
 <br>
-The above feign service is internally calling Spring-cloud-gateway-service url http://localhost:8888/eureka-client-1/eureka-client-1/hello  which is calling actual endpoint http://localhost:8061/eureka-client-1/hello
+The above <b>feign service</b> is internally calling Spring-cloud-gateway-service url http://localhost:8888/eureka-client-1/eureka-client-1/hello  which is calling actual endpoint http://localhost:8061/eureka-client-1/hello
