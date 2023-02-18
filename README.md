@@ -1,6 +1,6 @@
 # EurekaServer-CloudGateWay-Feign-Integration
 
-Download this repository "EurekaServer-CloudGateWay-Feign-Integration" using "git pull"
+Download this repository "EurekaServer-CloudGateWay-Feign-Integration" using "git pull" OR simply download zip in your computer.
 Import all maven projects one by one into your IDE and start the applications in your IDE using the below order.
 
 # 1. Name : eureka-client-1  Port: 8761
